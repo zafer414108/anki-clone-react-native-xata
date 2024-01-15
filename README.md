@@ -14,3 +14,4 @@ To run the project, check out the [Anki App](./ankiApp) and [Express API](./api)
 <img src="./screenshots/4.png" width=30%>
 </div>
 # anki-clone-react-native-xata
+# anki-clone-react-native-xata
